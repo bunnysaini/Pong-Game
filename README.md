@@ -2,7 +2,7 @@
 bunnysaini/Pong-Game
 
 ## Features
-A Tkinter GUI supported Pong Table game.
+A Turtle GUI supported Pong Table game.
 
 ## Instructions to Use
 - The right paddle is controlled by 🠐🠑🠓🠒 
